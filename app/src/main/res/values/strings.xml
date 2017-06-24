@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">SingleScreenAppNano</string>
+    <string name="app_name">Słodka dziurka</string>
+    <string name="cafe_name">"Słodka dziurka"</string>
+    <string name="cafe">Café</string>
+    <string name="the_best_price">The best prices in town!</string>
+    <string name="invite_to_our">We invite you to our café for cake and coffee</string>
+    <string name="mon_fri">mon-fri</string>
+    <string name="mon_fri_hours">08:00 - 20:00</string>
+    <string name="sat_sun">sat-sun</string>
+    <string name="sat_sun_hours">11:00 - 19:00</string>
+
 </resources>
